@@ -70,9 +70,9 @@ public class Cell {
 
     public char getStateRep() {
 	if (_state == State.ALIVE) {
-		return = '*';
+		return '*';
 	} else {
-		return = ' ';
+		return ' ';
 
 	}
     }
