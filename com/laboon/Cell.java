@@ -67,15 +67,13 @@ public class Cell {
      * @return Character representation of the cell's state
      */
 	
-<<<<<<< HEAD
+
     public char getStateRep() {
 	if (_state == State.ALIVE) {
 		return = '*';
 	} else {
 		return = ' ';
-=======
-	
->>>>>>> origin/wjl_derp
+
 	}
     }
 	

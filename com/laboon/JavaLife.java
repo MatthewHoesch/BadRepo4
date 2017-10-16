@@ -2,9 +2,7 @@ package com.laboon;
 
 public class JavaLife {
 
-<<<<<<< HEAD
-   
-=======
+
 	/**
 	 * 
 	 * @param size Size of a world
@@ -23,7 +21,7 @@ public class JavaLife {
 			System.out.println(w.toString());
 		}
 		
->>>>>>> origin/wjl_derp
+
 	}
 		
     }
