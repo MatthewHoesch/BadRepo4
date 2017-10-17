@@ -23,8 +23,7 @@ public class JavaLife {
 		
 
 	}
-		
-    }
+
 	
     /**
      * String to display if wrong number of arguments or other unspecified error
